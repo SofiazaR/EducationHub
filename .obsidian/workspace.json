@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
+                "file": "Courses/Основы Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Финтех. Frontend-разработка"
+              "title": "Основы Git"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
+                "file": "Courses/Основы Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Финтех. Frontend-разработка"
+              "title": "Backlinks for Основы Git"
             }
           },
           {
@@ -179,11 +179,11 @@
   },
   "active": "8f49c564d34b1d8c",
   "lastOpenFiles": [
+    "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Courses/Учись учиться.md",
     "Courses/Digitalfinance.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/Практика по HTML & CSS.md",
-    "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Frontend Hub/Books.md",
     "Courses/Как подбирать и использовать контролы.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
