@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
+                "file": "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS"
+              "title": "Финтех. Frontend-разработка"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
+                "file": "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CSS"
+              "title": "Backlinks for Финтех. Frontend-разработка"
             }
           },
           {
@@ -179,6 +179,10 @@
   },
   "active": "8f49c564d34b1d8c",
   "lastOpenFiles": [
+    "Courses/Учись учиться.md",
+    "Courses/Digitalfinance.md",
+    "Courses/Основы Git.md",
+    "Courses/Как подбирать и использовать контролы.md",
     "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
@@ -186,8 +190,6 @@
     "Frontend Hub/Frontend Roadmap/RoadMap.md",
     "README.md",
     "Frontend Hub/Books.md",
-    "Courses/Как подбирать и использовать контролы.md",
-    "Courses/Digitalfinance.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS",
     "Courses/Финтех. Frontend-разработка",
     "Frontend Hub/Frontend Roadmap",

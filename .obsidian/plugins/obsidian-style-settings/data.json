@@ -5,5 +5,8 @@
   "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-pink-lt",
   "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-light-lt",
   "obsidian-prism-theme@@pt-icons-accent": true,
-  "obsidian-prism-theme@@pt-icon-folder-accent": true
+  "obsidian-prism-theme@@pt-icon-folder-accent": true,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-solarized-light"
 }
