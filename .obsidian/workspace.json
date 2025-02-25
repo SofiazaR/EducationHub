@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Hub/Books.md",
+                "file": "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "Финтех. Frontend-разработка"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Hub/Books.md",
+                "file": "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Books"
+              "title": "Backlinks for Финтех. Frontend-разработка"
             }
           },
           {
@@ -177,9 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303003386ba44236",
+  "active": "8f49c564d34b1d8c",
   "lastOpenFiles": [
+    "Frontend Hub/Books.md",
+    "Courses/Как подбирать и использовать контролы.md",
+    "Courses/Digitalfinance.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/Практика по HTML & CSS.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
     "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS",
+    "Courses/Финтех. Frontend-разработка",
     "Attacment/performance-f4dd5d83-f3eb-477f-9fb5-8a41a367108f (1).pptx",
     "Attacment/performance-38ed4d71-d274-48b6-b8b2-a2cc9ef85264 1.docx",
     "Attacment/performance-38ed4d71-d274-48b6-b8b2-a2cc9ef85264.docx",
@@ -188,18 +197,9 @@
     "Attacment/typescript-b45e33d8-5161-4315-8951-648127727057.pdf",
     "Attacment/devtools-debug-e95f7ea8-dc65-4ce1-8b0c-d992c861910e.pdf",
     "Attacment/tfs-js-dom-03fac68e-32a4-4100-8afc-7bae27875021.pdf",
-    "Attacment/network-08a56602-e681-485e-a8fb-e543d847422d.pdf",
-    "Attacment/tinkoff-fintech-prototipnoe-nasledovanie-df086c38-87c1-4c1a-8011-d9ab430e8d8a-11284311-2475-4979-b2b7-cf5330d7d9e8.pdf",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/Практика по HTML & CSS.md",
     "Courses/Учись учиться.md",
-    "Courses/Digitalfinance.md",
     "Courses/Основы Git.md",
-    "Courses/Как подбирать и использовать контролы.md",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
     "Frontend Hub/Frontend Roadmap/RoadMap.md",
-    "README.md",
-    "Frontend Hub/Books.md"
+    "README.md"
   ]
 }
