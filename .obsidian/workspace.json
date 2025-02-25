@@ -11,10 +11,14 @@
             "id": "8f49c564d34b1d8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Frontend Hub/Books.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Books"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend Hub/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Books"
             }
           },
           {
@@ -172,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f49c564d34b1d8c",
+  "active": "303003386ba44236",
   "lastOpenFiles": [
     "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Attacment/performance-f4dd5d83-f3eb-477f-9fb5-8a41a367108f (1).pptx",
