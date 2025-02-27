@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Основы Git.md",
+                "file": "Courses/Финтех. Frontend-разработка/HTML & CSS/Практика по HTML & CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основы Git"
+              "title": "Практика по HTML & CSS"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Основы Git.md",
+                "file": "Courses/Финтех. Frontend-разработка/HTML & CSS/Практика по HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Основы Git"
+              "title": "Backlinks for Практика по HTML & CSS"
             }
           },
           {
@@ -179,14 +179,16 @@
   },
   "active": "8f49c564d34b1d8c",
   "lastOpenFiles": [
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
+    "Frontend Hub/Frontend Roadmap/RoadMap.md",
+    "Courses/Финтех. Frontend-разработка/HTML & CSS/Практика по HTML & CSS.md",
+    "Courses/Основы Git.md",
     "Courses/Финтех. Frontend-разработка/Финтех. Frontend-разработка.md",
     "Courses/Учись учиться.md",
     "Courses/Digitalfinance.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/Как работает CSS.md",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/Практика по HTML & CSS.md",
     "Frontend Hub/Books.md",
     "Courses/Как подбирать и использовать контролы.md",
-    "Courses/Финтех. Frontend-разработка/HTML & CSS/HTML.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS/CSS.md",
     "Courses/Финтех. Frontend-разработка/HTML & CSS",
     "Courses/Финтех. Frontend-разработка",
@@ -198,8 +200,6 @@
     "Attacment/typescript-b45e33d8-5161-4315-8951-648127727057.pdf",
     "Attacment/devtools-debug-e95f7ea8-dc65-4ce1-8b0c-d992c861910e.pdf",
     "Attacment/tfs-js-dom-03fac68e-32a4-4100-8afc-7bae27875021.pdf",
-    "Courses/Основы Git.md",
-    "Frontend Hub/Frontend Roadmap/RoadMap.md",
     "README.md"
   ]
 }
